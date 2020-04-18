@@ -159,4 +159,4 @@ end
 Training, Guard cells and offset are selected by increasing and decreasing to match the image shared in walkthrough.
 
 
-![result](https://github.com/mdfazal/Rada_Target_and_Generation.git/img/CA_CFAR.PNG)
+![result](img/CA_CFAR.PNG)
